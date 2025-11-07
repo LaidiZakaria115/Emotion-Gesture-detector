@@ -34,14 +34,14 @@ Numpy – Data manipulation
 
 
 ---- > Example Gestures : 
-✋ Palm	Open hand
-✊ Fist	Closed hand
-👍 Thumbs Up	Positive gesture
-👎 Thumbs Down	Negative gesture
+✋ Palm	
+✊ Fist	
+👍 Thumbs Up	
+👎 Thumbs Down	
 
 ---- > Example Emotions : 
-😀 Happy	Positive expression
-😢 Sad	Negative expression
-😡 Angry	Aggressive tone
-😲 Surprise	Unexpected expression
-😐 Neutral	Default expression
+😀 Happy	
+😢 Sad	
+😡 Angry	
+😲 Surprise	
+😐 Neutral	
