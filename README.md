@@ -30,3 +30,18 @@ FER – For facial emotion analysis
 TensorFlow – Backend for FER
 
 Numpy – Data manipulation
+
+
+
+---- > Example Gestures : 
+✋ Palm	Open hand
+✊ Fist	Closed hand
+👍 Thumbs Up	Positive gesture
+👎 Thumbs Down	Negative gesture
+
+---- > Example Emotions : 
+😀 Happy	Positive expression
+😢 Sad	Negative expression
+😡 Angry	Aggressive tone
+😲 Surprise	Unexpected expression
+😐 Neutral	Default expression
