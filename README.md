@@ -1,9 +1,9 @@
-🧠 Emotion & Hand Gesture Detector
+----> Emotion & Hand Gesture Detector
 
 A real-time AI application that detects human emotions through facial expressions and recognizes hand gestures using your webcam — all without training any models.
 Built with Python, OpenCV, MediaPipe, and FER (Facial Emotion Recognition).
 
-🚀 Features
+----> Features
 
 ✅ Real-time Emotion Detection
 Detects emotions such as happy, sad, angry, surprised, neutral, etc.
